@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Account Management"
+  },
+  {
+    "id": 2,
+    "name": "Accounting & Finance"
+  },
+  {
+    "id": 3,
+    "name": "Administrative"
+  },
+  {
+    "id": 4,
+    "name": "Advertising & PR"
+  },
+  {
+    "id": 5,
+    "name": "Animals & Wildlife"
+  },
+  {
+    "id": 6,
+    "name": "Art & Creative"
+  },
+  {
+    "id": 7,
+    "name": "Bilingual"
+  },
+  {
+    "id": 8,
+    "name": "Business Development"
+  },
+  {
+    "id": 9,
+    "name": "Call Center"
+  },
+  {
+    "id": 10,
+    "name": "Communications"
+  },
+  {
+    "id": 11,
+    "name": "Computer & IT"
+  },
+  {
+    "id": 12,
+    "name": "Consulting"
+  },
+  {
+    "id": 13,
+    "name": "Customer Service"
+  },
+  {
+    "id": 14,
+    "name": "Data Entry"
+  },
+  {
+    "id": 15,
+    "name": "Editing"
+  },
+  {
+    "id": 16,
+    "name": "Education & Training"
+  },
+  {
+    "id": 17,
+    "name": "Engineering"
+  },
+  {
+    "id": 18,
+    "name": "Entertainment & Media "
+  },
+  {
+    "id": 19,
+    "name": "Environmental & Green"
+  },
+  {
+    "id": 20,
+    "name": "Event Planning"
+  },
+  {
+    "id": 21,
+    "name": "Fashion & Beauty"
+  },
+  {
+    "id": 22,
+    "name": "Food & Beverage"
+  },
+  {
+    "id": 23,
+    "name": "Government & Politics"
+  },
+  {
+    "id": 24,
+    "name": "Graphic Design"
+  },
+  {
+    "id": 25,
+    "name": "HR & Recruiting"
+  },
+  {
+    "id": 26,
+    "name": "Human Services"
+  },
+  {
+    "id": 27,
+    "name": "Insurance"
+  },
+  {
+    "id": 28,
+    "name": "International"
+  },
+  {
+    "id": 29,
+    "name": "Internet & Ecommerce"
+  },
+  {
+    "id": 30,
+    "name": "Legal"
+  },
+  {
+    "id": 31,
+    "name": "Manufacturing"
+  },
+  {
+    "id": 32,
+    "name": "Marketing"
+  },
+  {
+    "id": 33,
+    "name": "Math & Economics"
+  },
+  {
+    "id": 34,
+    "name": "Medical & Health"
+  },
+  {
+    "id": 35,
+    "name": "Mortgage & Real Estate"
+  },
+  {
+    "id": 36,
+    "name": "News & Journalism "
+  },
+  {
+    "id": 37,
+    "name": "Nonprofit & Philanthropy"
+  },
+  {
+    "id": 38,
+    "name": "Operations"
+  },
+  {
+    "id": 39,
+    "name": "Project Management"
+  },
+  {
+    "id": 40,
+    "name": "Research"
+  },
+  {
+    "id": 41,
+    "name": "Retail"
+  },
+  {
+    "id": 42,
+    "name": "Sales"
+  },
+  {
+    "id": 43,
+    "name": "Science"
+  },
+  {
+    "id": 44,
+    "name": "Software Development"
+  },
+  {
+    "id": 45,
+    "name": "Sports & Fitness"
+  },
+  {
+    "id": 46,
+    "name": "Telemarketing"
+  },
+  {
+    "id": 47,
+    "name": "Transcription"
+  },
+  {
+    "id": 48,
+    "name": "Translation"
+  },
+  {
+    "id": 49,
+    "name": "Travel & Hospitality"
+  },
+  {
+    "id": 50,
+    "name": "Web Design"
+  },
+  {
+    "id": 51,
+    "name": "Writing"
+  },
+  {
+    "id": 52,
+    "name": "Youth & Children"
+  }
+]
+
+

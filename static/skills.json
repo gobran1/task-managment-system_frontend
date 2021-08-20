@@ -1,0 +1,1094 @@
+[
+  {
+    "id": 1,
+    "name": "Engineering and technical Jobs"
+  },
+  {
+    "id": 2,
+    "name": "Aerospace Engineering"
+  },
+  {
+    "id": 3,
+    "name": "Automation Engineering"
+  },
+  {
+    "id": 4,
+    "name": "Automotive Engineering"
+  },
+  {
+    "id": 5,
+    "name": "Building, Supply, Safety Services Engineering"
+  },
+  {
+    "id": 6,
+    "name": "Chemical Engineering"
+  },
+  {
+    "id": 7,
+    "name": "Construction Engineering"
+  },
+  {
+    "id": 8,
+    "name": "Construction, Visualising"
+  },
+  {
+    "id": 9,
+    "name": "Dental Technician"
+  },
+  {
+    "id": 10,
+    "name": "Development"
+  },
+  {
+    "id": 11,
+    "name": "Electrical Engineering"
+  },
+  {
+    "id": 12,
+    "name": "Event Technology"
+  },
+  {
+    "id": 13,
+    "name": "Industrial Engineer"
+  },
+  {
+    "id": 14,
+    "name": "Management, Team Leader"
+  },
+  {
+    "id": 15,
+    "name": "Manufacturing Engineering"
+  },
+  {
+    "id": 16,
+    "name": "Materials Science"
+  },
+  {
+    "id": 17,
+    "name": "Mechanical Engineering"
+  },
+  {
+    "id": 18,
+    "name": "Mechatronic"
+  },
+  {
+    "id": 19,
+    "name": "Medical Technology"
+  },
+  {
+    "id": 20,
+    "name": "Opticians, Acoustician"
+  },
+  {
+    "id": 21,
+    "name": "Plastics Engineering"
+  },
+  {
+    "id": 22,
+    "name": "Power Engineering and Environmental Engineering"
+  },
+  {
+    "id": 23,
+    "name": "Process Engineering"
+  },
+  {
+    "id": 24,
+    "name": "Process Management"
+  },
+  {
+    "id": 25,
+    "name": "Project Management"
+  },
+  {
+    "id": 26,
+    "name": "Quality Management"
+  },
+  {
+    "id": 27,
+    "name": "Sales Engineer"
+  },
+  {
+    "id": 28,
+    "name": "Service Technician"
+  },
+  {
+    "id": 29,
+    "name": "Technical Documentation"
+  },
+  {
+    "id": 30,
+    "name": "Tracer"
+  },
+  {
+    "id": 31,
+    "name": "IT"
+  },
+  {
+    "id": 32,
+    "name": "Applications Administration"
+  },
+  {
+    "id": 33,
+    "name": "Consulting, Engineering"
+  },
+  {
+    "id": 34,
+    "name": "Database Administration"
+  },
+  {
+    "id": 35,
+    "name": "Data Processing, Datawarehouse, Business Intelligence"
+  },
+  {
+    "id": 36,
+    "name": "Embedded Systems, Firmware Development"
+  },
+  {
+    "id": 37,
+    "name": "Hardware Design"
+  },
+  {
+    "id": 38,
+    "name": "Helpdesk"
+  },
+  {
+    "id": 39,
+    "name": "Information Systems"
+  },
+  {
+    "id": 40,
+    "name": "Management, Team Leader"
+  },
+  {
+    "id": 41,
+    "name": "Process Management"
+  },
+  {
+    "id": 42,
+    "name": "Project Management"
+  },
+  {
+    "id": 43,
+    "name": "Quality Assurance, Inspection"
+  },
+  {
+    "id": 44,
+    "name": "SAP \/ ERP Consulting, Development"
+  },
+  {
+    "id": 45,
+    "name": "Security"
+  },
+  {
+    "id": 46,
+    "name": "Software Development"
+  },
+  {
+    "id": 47,
+    "name": "System and Network Administration"
+  },
+  {
+    "id": 48,
+    "name": "Technical Documentation"
+  },
+  {
+    "id": 49,
+    "name": "Training"
+  },
+  {
+    "id": 50,
+    "name": "Web Development"
+  },
+  {
+    "id": 51,
+    "name": "Sales"
+  },
+  {
+    "id": 52,
+    "name": "Customer Service"
+  },
+  {
+    "id": 53,
+    "name": "Estate Agent"
+  },
+  {
+    "id": 54,
+    "name": "Field Service"
+  },
+  {
+    "id": 55,
+    "name": "Inside Sales, Sales Clerks"
+  },
+  {
+    "id": 56,
+    "name": "Management, Team Leader"
+  },
+  {
+    "id": 57,
+    "name": "Medical Representative"
+  },
+  {
+    "id": 58,
+    "name": "Pre-Sales"
+  },
+  {
+    "id": 59,
+    "name": "Sales Assistant"
+  },
+  {
+    "id": 60,
+    "name": "Shop Sales (Trade)"
+  },
+  {
+    "id": 61,
+    "name": "Telesales"
+  },
+  {
+    "id": 62,
+    "name": "Marketing and Communication"
+  },
+  {
+    "id": 63,
+    "name": "CRM, Direct Marketing"
+  },
+  {
+    "id": 64,
+    "name": "Distribution Marketing"
+  },
+  {
+    "id": 65,
+    "name": "Event Marketing"
+  },
+  {
+    "id": 66,
+    "name": "Journalism, Writing"
+  },
+  {
+    "id": 67,
+    "name": "Management, Team Leader"
+  },
+  {
+    "id": 68,
+    "name": "Market Research, Analysis"
+  },
+  {
+    "id": 69,
+    "name": "Marketing Assistant"
+  },
+  {
+    "id": 70,
+    "name": "Marketing Manager"
+  },
+  {
+    "id": 71,
+    "name": "Media Planning, Purchasing"
+  },
+  {
+    "id": 72,
+    "name": "Online Marketing"
+  },
+  {
+    "id": 73,
+    "name": "Product Management"
+  },
+  {
+    "id": 74,
+    "name": "Public Relations, Corporate Communication"
+  },
+  {
+    "id": 75,
+    "name": "Strategic Marketing"
+  },
+  {
+    "id": 76,
+    "name": "Trade Marketing"
+  },
+  {
+    "id": 77,
+    "name": "Finance"
+  },
+  {
+    "id": 78,
+    "name": "Accounts Payable"
+  },
+  {
+    "id": 79,
+    "name": "Accounts Receivable"
+  },
+  {
+    "id": 80,
+    "name": "Assets Accountant"
+  },
+  {
+    "id": 81,
+    "name": "Auditor"
+  },
+  {
+    "id": 82,
+    "name": "Business Analyst"
+  },
+  {
+    "id": 83,
+    "name": "Compliance, Security"
+  },
+  {
+    "id": 84,
+    "name": "Controlling"
+  },
+  {
+    "id": 85,
+    "name": "External Auditing"
+  },
+  {
+    "id": 86,
+    "name": "Financial, Chief Accountant"
+  },
+  {
+    "id": 87,
+    "name": "Group accounting"
+  },
+  {
+    "id": 88,
+    "name": "Management, Team Leader"
+  },
+  {
+    "id": 89,
+    "name": "Mergers & Acquisitions"
+  },
+  {
+    "id": 90,
+    "name": "Payroll Accounting"
+  },
+  {
+    "id": 91,
+    "name": "Process Management"
+  },
+  {
+    "id": 92,
+    "name": "Tax Advisor"
+  },
+  {
+    "id": 93,
+    "name": "Treasury, Cash Management"
+  },
+  {
+    "id": 94,
+    "name": "Banking, Financial Services and Insurance"
+  },
+  {
+    "id": 95,
+    "name": "Analyst"
+  },
+  {
+    "id": 96,
+    "name": "Asset, Fonds Management"
+  },
+  {
+    "id": 97,
+    "name": "Clerk, Insurance Specialists"
+  },
+  {
+    "id": 98,
+    "name": "Compliance, Security"
+  },
+  {
+    "id": 99,
+    "name": "Corporate Banking"
+  },
+  {
+    "id": 100,
+    "name": "Credit Analysis"
+  },
+  {
+    "id": 101,
+    "name": "Insurance Mathematics, Product Development, Statistics"
+  },
+  {
+    "id": 102,
+    "name": "Investment Banking"
+  },
+  {
+    "id": 103,
+    "name": "Investment Consultancy"
+  },
+  {
+    "id": 104,
+    "name": "Management, Team Leader"
+  },
+  {
+    "id": 105,
+    "name": "Mergers & Acquisitions"
+  },
+  {
+    "id": 106,
+    "name": "Monetary Transfers"
+  },
+  {
+    "id": 107,
+    "name": "Private Banking"
+  },
+  {
+    "id": 108,
+    "name": "Stock Exchange Trading"
+  },
+  {
+    "id": 109,
+    "name": "Purchasing, Materials Administration and Logistics"
+  },
+  {
+    "id": 110,
+    "name": "Dispatching"
+  },
+  {
+    "id": 111,
+    "name": "Fleet Management"
+  },
+  {
+    "id": 112,
+    "name": "Management, Team Leader"
+  },
+  {
+    "id": 113,
+    "name": "Manufacturing Logistics"
+  },
+  {
+    "id": 114,
+    "name": "Outbound, Transportation Logistics"
+  },
+  {
+    "id": 115,
+    "name": "Process Management"
+  },
+  {
+    "id": 116,
+    "name": "Procurement Logistics"
+  },
+  {
+    "id": 117,
+    "name": "Purchasing"
+  },
+  {
+    "id": 118,
+    "name": "Supply Chain Management"
+  },
+  {
+    "id": 119,
+    "name": "Warehouse Logistics"
+  },
+  {
+    "id": 120,
+    "name": "Waste Logistics"
+  },
+  {
+    "id": 121,
+    "name": "HR"
+  },
+  {
+    "id": 122,
+    "name": "Administration"
+  },
+  {
+    "id": 123,
+    "name": "Compensation and Benefits"
+  },
+  {
+    "id": 124,
+    "name": "Consulting"
+  },
+  {
+    "id": 125,
+    "name": "Management, Team Leader"
+  },
+  {
+    "id": 126,
+    "name": "Payroll"
+  },
+  {
+    "id": 127,
+    "name": "Personnel Specialist"
+  },
+  {
+    "id": 128,
+    "name": "Recruitment and Selection"
+  },
+  {
+    "id": 129,
+    "name": "Training, Development"
+  },
+  {
+    "id": 130,
+    "name": "Administration and Secretariat"
+  },
+  {
+    "id": 131,
+    "name": "Assistance, Secretarial"
+  },
+  {
+    "id": 132,
+    "name": "Clerk"
+  },
+  {
+    "id": 133,
+    "name": "Office Management"
+  },
+  {
+    "id": 134,
+    "name": "Property Management"
+  },
+  {
+    "id": 135,
+    "name": "Sciences and Research"
+  },
+  {
+    "id": 136,
+    "name": "Bio Technology"
+  },
+  {
+    "id": 137,
+    "name": "Biology"
+  },
+  {
+    "id": 138,
+    "name": "Chemistry"
+  },
+  {
+    "id": 139,
+    "name": "Geosciences"
+  },
+  {
+    "id": 140,
+    "name": "Mathematics"
+  },
+  {
+    "id": 141,
+    "name": "Pharmaceutic"
+  },
+  {
+    "id": 142,
+    "name": "Physics"
+  },
+  {
+    "id": 143,
+    "name": "Research, Laboratory"
+  },
+  {
+    "id": 144,
+    "name": "Physicians"
+  },
+  {
+    "id": 145,
+    "name": "Anaesthesiology"
+  },
+  {
+    "id": 146,
+    "name": "Child and Adolescent Psychiatry"
+  },
+  {
+    "id": 147,
+    "name": "Clinical Research"
+  },
+  {
+    "id": 148,
+    "name": "Dentistry"
+  },
+  {
+    "id": 149,
+    "name": "Ear, Nose, Throat Specialist"
+  },
+  {
+    "id": 150,
+    "name": "General Medicine"
+  },
+  {
+    "id": 151,
+    "name": "Gynaecology"
+  },
+  {
+    "id": 152,
+    "name": "Hygiene Medicine, Environmental Medicine"
+  },
+  {
+    "id": 153,
+    "name": "Internal Medicine"
+  },
+  {
+    "id": 154,
+    "name": "Neurosurgery, Neurology"
+  },
+  {
+    "id": 155,
+    "name": "Occupational Medicine"
+  },
+  {
+    "id": 156,
+    "name": "Oncology"
+  },
+  {
+    "id": 157,
+    "name": "Ophthalmology"
+  },
+  {
+    "id": 158,
+    "name": "Oral, Facial Surgery"
+  },
+  {
+    "id": 159,
+    "name": "Orthopaedics"
+  },
+  {
+    "id": 160,
+    "name": "Pathology"
+  },
+  {
+    "id": 161,
+    "name": "Pediatrics"
+  },
+  {
+    "id": 162,
+    "name": "Psychiatry, Psychotherapy"
+  },
+  {
+    "id": 163,
+    "name": "Radiology"
+  },
+  {
+    "id": 164,
+    "name": "Specialist for Dermatological, Venereal Diseases"
+  },
+  {
+    "id": 165,
+    "name": "Surgery"
+  },
+  {
+    "id": 166,
+    "name": "Urology"
+  },
+  {
+    "id": 167,
+    "name": "Veterinary Medicine"
+  },
+  {
+    "id": 168,
+    "name": "Nursing, Therapy"
+  },
+  {
+    "id": 169,
+    "name": "Anaesthetic, Intensive Care"
+  },
+  {
+    "id": 170,
+    "name": "Dietician"
+  },
+  {
+    "id": 171,
+    "name": "Disability Support Worker"
+  },
+  {
+    "id": 172,
+    "name": "Elderly Care Nurse"
+  },
+  {
+    "id": 173,
+    "name": "Logopaedics"
+  },
+  {
+    "id": 174,
+    "name": "Management, Team Leader"
+  },
+  {
+    "id": 175,
+    "name": "Medical, Ambulant Service"
+  },
+  {
+    "id": 176,
+    "name": "Midwifery"
+  },
+  {
+    "id": 177,
+    "name": "Nursing"
+  },
+  {
+    "id": 178,
+    "name": "Nursing Assistant"
+  },
+  {
+    "id": 179,
+    "name": "Occupational Therapy"
+  },
+  {
+    "id": 180,
+    "name": "Paediatrics Nursing Care"
+  },
+  {
+    "id": 181,
+    "name": "Physical Therapy"
+  },
+  {
+    "id": 182,
+    "name": "Practice Personnel, Medical Support"
+  },
+  {
+    "id": 183,
+    "name": "Psychotherapy"
+  },
+  {
+    "id": 184,
+    "name": "Radiotherapy"
+  },
+  {
+    "id": 185,
+    "name": "Education and Social Policy"
+  },
+  {
+    "id": 186,
+    "name": "Educator"
+  },
+  {
+    "id": 187,
+    "name": "High School"
+  },
+  {
+    "id": 188,
+    "name": "Kindergarten, Preschool"
+  },
+  {
+    "id": 189,
+    "name": "Management, Team Leader"
+  },
+  {
+    "id": 190,
+    "name": "Primary School"
+  },
+  {
+    "id": 191,
+    "name": "Social, Community Work"
+  },
+  {
+    "id": 192,
+    "name": "Training Supervisor"
+  },
+  {
+    "id": 193,
+    "name": "Training, Adult Education"
+  },
+  {
+    "id": 194,
+    "name": "University, Colleges"
+  },
+  {
+    "id": 195,
+    "name": "Vocational School"
+  },
+  {
+    "id": 196,
+    "name": "Public Sector"
+  },
+  {
+    "id": 197,
+    "name": "Armed Forces"
+  },
+  {
+    "id": 198,
+    "name": "Civil Servant Federal Affairs"
+  },
+  {
+    "id": 199,
+    "name": "Civil Servant Foreign Affairs"
+  },
+  {
+    "id": 200,
+    "name": "Fire Brigade"
+  },
+  {
+    "id": 201,
+    "name": "Government Custom and Excise Officers"
+  },
+  {
+    "id": 202,
+    "name": "Local Government Officials"
+  },
+  {
+    "id": 203,
+    "name": "Organizations, Diplomatic Representatives"
+  },
+  {
+    "id": 204,
+    "name": "Police, Prison, Related Work"
+  },
+  {
+    "id": 205,
+    "name": "Law"
+  },
+  {
+    "id": 206,
+    "name": "Administration of Justice (Judges)"
+  },
+  {
+    "id": 207,
+    "name": "Advocacy"
+  },
+  {
+    "id": 208,
+    "name": "Court, Notary, Legal Assistant"
+  },
+  {
+    "id": 209,
+    "name": "Legal Department"
+  },
+  {
+    "id": 210,
+    "name": "Notary"
+  },
+  {
+    "id": 211,
+    "name": "Design and Architecture"
+  },
+  {
+    "id": 212,
+    "name": "Architecture"
+  },
+  {
+    "id": 213,
+    "name": "Fashion Design, Jewelry Design"
+  },
+  {
+    "id": 214,
+    "name": "Graphic Arts and Communication Design"
+  },
+  {
+    "id": 215,
+    "name": "Media, Screen and Web Design"
+  },
+  {
+    "id": 216,
+    "name": "Photography, Video"
+  },
+  {
+    "id": 217,
+    "name": "Product Design, Industrial Design"
+  },
+  {
+    "id": 218,
+    "name": "Theater, Playhouse, Music, Dance"
+  },
+  {
+    "id": 219,
+    "name": "Manual Work, Service Industry and Manufacturing"
+  },
+  {
+    "id": 220,
+    "name": "Beauty, Wellness"
+  },
+  {
+    "id": 221,
+    "name": "Construction Worker"
+  },
+  {
+    "id": 222,
+    "name": "Electrician"
+  },
+  {
+    "id": 223,
+    "name": "Food Manufacturing"
+  },
+  {
+    "id": 224,
+    "name": "Gastronomy, Hotel Industry"
+  },
+  {
+    "id": 225,
+    "name": "Interior Design"
+  },
+  {
+    "id": 226,
+    "name": "Management, Team Leader"
+  },
+  {
+    "id": 227,
+    "name": "Manufacturing, Production"
+  },
+  {
+    "id": 228,
+    "name": "Mechanician"
+  },
+  {
+    "id": 229,
+    "name": "Metal Crafts"
+  },
+  {
+    "id": 230,
+    "name": "Painter, Varnisher"
+  },
+  {
+    "id": 231,
+    "name": "Quality Assurance"
+  },
+  {
+    "id": 232,
+    "name": "Security"
+  },
+  {
+    "id": 233,
+    "name": "Travel, Tourism"
+  },
+  {
+    "id": 234,
+    "name": "Wood Crafts"
+  },
+  {
+    "id": 235,
+    "name": "Senior Management"
+  },
+  {
+    "id": 236,
+    "name": "Assistance"
+  },
+  {
+    "id": 237,
+    "name": "Branch Management"
+  },
+  {
+    "id": 238,
+    "name": "Business Consulting"
+  },
+  {
+    "id": 239,
+    "name": "Business Development"
+  },
+  {
+    "id": 240,
+    "name": "Department, Business Unit Management"
+  },
+  {
+    "id": 241,
+    "name": "Directors, Chief Executives"
+  },
+  {
+    "id": 242,
+    "name": "Team Leader"
+  },
+  {
+    "id": 243,
+    "name": "Model Maker"
+  },
+  {
+    "id": 244,
+    "name": "Conservation Scientist"
+  },
+  {
+    "id": 245,
+    "name": "Anthropologist"
+  },
+  {
+    "id": 246,
+    "name": "Hotel Desk Clerk"
+  },
+  {
+    "id": 247,
+    "name": "Tire Builder"
+  },
+  {
+    "id": 248,
+    "name": "Materials Engineer"
+  },
+  {
+    "id": 249,
+    "name": "Administrative Support Supervisors"
+  },
+  {
+    "id": 250,
+    "name": "Automotive Technician"
+  },
+  {
+    "id": 251,
+    "name": "Pharmacy Aide"
+  },
+  {
+    "id": 252,
+    "name": "Transportation Equipment Maintenance"
+  },
+  {
+    "id": 253,
+    "name": "Marketing VP"
+  },
+  {
+    "id": 254,
+    "name": "Foreign Language Teacher"
+  },
+  {
+    "id": 255,
+    "name": "Entertainer and Performer"
+  },
+  {
+    "id": 256,
+    "name": "Legislator"
+  },
+  {
+    "id": 257,
+    "name": "Illustrator"
+  },
+  {
+    "id": 258,
+    "name": "Cooling and Freezing Equipment Operator"
+  },
+  {
+    "id": 259,
+    "name": "Aircraft Engine Specialist"
+  },
+  {
+    "id": 260,
+    "name": "Professional Photographer"
+  },
+  {
+    "id": 261,
+    "name": "Radiologic Technologist"
+  },
+  {
+    "id": 262,
+    "name": "Railroad Yard Worker"
+  },
+  {
+    "id": 263,
+    "name": "Elevator Installer and Repairer"
+  },
+  {
+    "id": 264,
+    "name": "Dietetic Technician"
+  },
+  {
+    "id": 265,
+    "name": "Proofreaders and Copy Marker"
+  },
+  {
+    "id": 266,
+    "name": "Lodging Manager"
+  },
+  {
+    "id": 267,
+    "name": "Roofer"
+  },
+  {
+    "id": 268,
+    "name": "Valve Repairer OR Regulator Repairer"
+  },
+  {
+    "id": 269,
+    "name": "Business Operations Specialist"
+  },
+  {
+    "id": 270,
+    "name": "License Clerk"
+  },
+  {
+    "id": 271,
+    "name": "Computer Security Specialist"
+  },
+  {
+    "id": 272,
+    "name": "Rental Clerk"
+  },
+  {
+    "id": 273,
+    "name": "laravel"
+  }
+]
